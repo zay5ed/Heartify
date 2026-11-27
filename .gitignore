@@ -1,0 +1,19 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Conda and virtual environments
+.venv/
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+
+# Model files
+*.pkl
+*.joblib
