@@ -17,3 +17,10 @@ venv/
 # Model files
 *.pkl
 *.joblib
+
+# Raw dataset
+data/raw/
+
+# Heartify project-specific files
+
+models/
